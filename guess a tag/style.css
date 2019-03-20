@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color: plum;
+}
+
+
+
+button{
+    margin: 30px;
+    padding: 20px;
+ }
+
+
+
+ #first{
+    background-color: white;
+}
+
+#second{
+    background-color: blue;
+}
+
+#third{
+    background-color: green;
+}
+
+#forth{
+    background-color: purple;
+}
+
+
+#list-data li{
+    display: inline-block;
+    max-width: 200px;
+}
+
+li img{
+    max-width: 100%;
+    vertical-align: middle;
